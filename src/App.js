@@ -14,7 +14,7 @@ import Terms from './Screens/Terms';
 export default class App extends Component {
   constructor(props){
     super(props);
-    global.url='http://18.132.98.127:3000';
+    global.url='http://54.211.85.208:3000';
   }
   render() {
     return (
